@@ -11,6 +11,10 @@ People who attended:
 - Person B
 - Person C
 
+Absent member(s):
+- Person D
+- Person E (excused)
+
 ## Agenda Items
 
 Item | Description
